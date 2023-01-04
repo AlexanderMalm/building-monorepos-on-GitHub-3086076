@@ -25,24 +25,6 @@ importers:
       react-scripts: 4.0.3_react@17.0.2
       web-vitals: 1.1.2
 
-  ../../apps/finance:
-    specifiers:
-      '@testing-library/jest-dom': ^5.11.4
-      '@testing-library/react': ^11.1.0
-      '@testing-library/user-event': ^12.1.10
-      react: ^17.0.2
-      react-dom: ^17.0.2
-      react-scripts: 4.0.3
-      web-vitals: ^1.0.1
-    dependencies:
-      '@testing-library/jest-dom': 5.16.5
-      '@testing-library/react': 11.2.7_react-dom@17.0.2+react@17.0.2
-      '@testing-library/user-event': 12.8.3
-      react: 17.0.2
-      react-dom: 17.0.2_react@17.0.2
-      react-scripts: 4.0.3_react@17.0.2
-      web-vitals: 1.1.2
-
   ../../apps/shop:
     specifiers:
       '@my-libs/component': workspace:*
